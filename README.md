@@ -44,6 +44,7 @@ GeoSciAI2025/
 - **SNR (Signal-to-Noise Ratio)**：信号対雑音比。クリーン信号との比較によって性能を評価。
 - **CC (Cross-Correlation)**：デノイズ前後の波形の相互相関係数。信号の形状維持度を示す。
 
-## 引用文献
+## 参考
 
 - Woollam et al. (2022), *DeepDenoiser: A Deep Learning Seismic Denoising Tool*, https://doi.org/10.1785/0220210324
+- GeoSciAI2025, https://sites.google.com/jpgu.org/geosciai2025
