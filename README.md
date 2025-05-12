@@ -17,6 +17,7 @@ GeoSciAI2025/
 ├── preprocessing2.ipynb       # データ読み込み・前処理（npz形式対応）
 ├── test_evaluation.ipynb      # SNR, CC 評価指標の計算（公式スクリプト）
 ├── train_unet.py              # ベースモデルの学習スクリプト
+├── model2.py                  # モデル構造
 └── figures                    # 作成された画像の一部
 ```
 
