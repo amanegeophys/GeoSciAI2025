@@ -1,5 +1,7 @@
 data
 datasets_mask
-figures
-output_mask
+output_unet2
 reports
+old
+__pycache__
+unet_snr
